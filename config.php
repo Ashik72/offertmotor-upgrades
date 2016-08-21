@@ -2,6 +2,9 @@
 
 require_once ( "db_conf.php" );
 
+require __DIR__ . '/vendor/autoload.php';
+
+
 define("MAIL_TO", "ashik@noksa.net");
 define("MAIL_SUBJECT", "Offertkopia lixom -- Mattias");
 define("FROM_REPLY_TO", "offert@geekteq.com");

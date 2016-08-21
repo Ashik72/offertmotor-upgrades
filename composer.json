@@ -1,0 +1,14 @@
+{
+    "name": "ashik72/offertmotor",
+    "description": "Offertmotor customization.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ashik72",
+            "email": "ashik@noksa.net"
+        }
+    ],
+    "require": {
+
+    }
+}
