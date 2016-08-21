@@ -1,9 +1,8 @@
 <?php
-define("DB_HOST", "localhost");
-define("DB_NAME", "offert");
-define("DB_USER", "root");
-define("DB_PASSWORD", "klumpf0t");
-define("MAIL_TO", "mikael@mrinfo.se");
+
+require_once ( "db_conf.php" );
+
+define("MAIL_TO", "ashik@noksa.net");
 define("MAIL_SUBJECT", "Offertkopia lixom -- Mattias");
 define("FROM_REPLY_TO", "offert@geekteq.com");
 $page_2_values = array(
